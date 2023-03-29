@@ -1,0 +1,1 @@
+Esse programa é apenas uma zoação, queria testar o "tkinter" para criar uma janela para inserir texto e um botão para continuar
